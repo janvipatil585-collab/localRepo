@@ -1,0 +1,6 @@
+sub1=int(input('enter marks:'))
+sub2=int(input('enter marks:'))
+sub3=int(input('enter marks:'))
+total=sub1+sub2+sub3
+percentege=(total/300)*100
+print('percentege:',percentege)
